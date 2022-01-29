@@ -1,0 +1,11 @@
+#map {
+	display: block;
+	vertical-align: middle;
+	margin: 0 auto;
+	background-color: lightblue;
+	position: absolute;
+	top: 5%;
+	bottom: 5%;
+	left: 5%;
+	right: 5%;
+}
