@@ -1,11 +1,21 @@
+body {
+	/* background-color: #1b4958; */
+}
+
 #map {
 	display: block;
-	vertical-align: middle;
 	margin: 0 auto;
-	background-color: lightblue;
 	position: absolute;
 	top: 5%;
 	bottom: 5%;
 	left: 5%;
 	right: 5%;
+}
+
+#controls {
+	display: block;
+	margin: 0 auto;
+	position: absolute;
+	top: 50%;
+	left: 20%;
 }
