@@ -1,5 +1,5 @@
 {
-  "dependencies": {
-    "datamaps": "^0.5.9"
-  }
+	"dependencies": {
+		"datamaps": "^0.5.9"
+	}
 }
